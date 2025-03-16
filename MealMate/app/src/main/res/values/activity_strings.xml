@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Recipe Management -->
+    <string name="view_recipe">View Recipe</string>
+    <string name="error_adding_recipe">Error adding recipe</string>
+    <string name="error_updating_recipe">Error updating recipe</string>
+    <string name="error_loading_recipes">Error loading recipes</string>
+    <string name="select_from_menu">Select an option from the menu to get started</string>
+    <string name="grocery_list_header">My Grocery List:</string>
+
+    <!-- Phone and SMS -->
+    <string name="phone_number">Phone Number</string>
+    <string name="preview">Preview</string>
+    <string name="send_list">Send List</string>
+    <string name="error_empty_phone">Please enter a phone number</string>
+    <string name="error_invalid_phone">Please enter a valid phone number</string>
+
+    <!-- Navigation -->
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <!-- Errors -->
+    <string name="error_empty_title">Please enter a title</string>
+    <string name="error_empty_ingredients">Please enter ingredients</string>
+    <string name="error_empty_instructions">Please enter instructions</string>
+
+    <!-- Success Messages -->
+    <string name="success_recipe_added">Recipe added successfully</string>
+    <string name="success_recipe_updated">Recipe updated successfully</string>
+    <string name="success_recipe_deleted">Recipe deleted successfully</string>
+    <string name="success_list_sent">List sent successfully</string>
+
+    <!-- Confirmation -->
+    <string name="confirm_delete_recipe">Are you sure you want to delete this recipe?</string>
+    <string name="confirm_exit">Are you sure you want to exit?</string>
+    <string name="confirm_discard">Discard changes?</string>
+
+    <!-- Buttons -->
+    <string name="discard">Discard</string>
+    <string name="keep_editing">Keep Editing</string>
+    <string name="exit">Exit</string>
+    <string name="stay">Stay</string>
+
+    <!-- Labels -->
+    <string name="ingredients_label">Ingredients (one per line)</string>
+    <string name="instructions_label">Cooking Instructions</string>
+    <string name="preparation_time">Preparation Time</string>
+    <string name="cooking_time">Cooking Time</string>
+    <string name="servings">Servings</string>
+    <string name="difficulty">Difficulty</string>
+
+    <!-- Placeholders -->
+    <string name="hint_ingredients">Enter ingredients here…</string>
+    <string name="hint_instructions">Enter cooking instructions here…</string>
+    <string name="hint_phone">Enter recipient\'s phone number</string>
+
+    <!-- Categories -->
+    <string name="category_breakfast">Breakfast</string>
+    <string name="category_lunch">Lunch</string>
+    <string name="category_dinner">Dinner</string>
+    <string name="category_snacks">Snacks</string>
+    <string name="category_desserts">Desserts</string>
+
+    <!-- Difficulty Levels -->
+    <string name="difficulty_easy">Easy</string>
+    <string name="difficulty_medium">Medium</string>
+    <string name="difficulty_hard">Hard</string>
+
+    <!-- Units -->
+    <string name="unit_minutes">minutes</string>
+    <string name="unit_hours">hours</string>
+    <string name="unit_servings">servings</string>
+</resources>
